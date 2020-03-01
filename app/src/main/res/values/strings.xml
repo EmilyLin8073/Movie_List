@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="name">ListViewBaseAdapter</string>
+    <string name="image">Thumbnail</string>
+    <string name="Info">Info</string>
+    <string name="Trailer">Tralier </string>
+    <string name="Wikipedia">Director\'s Wikipedia </string>
+    <string name="IMDb">IMDb </string>
+
+    <string-array name="M1917">
+        <item>Released : 2019</item>
+        <item>Duration : 119 min</item>
+        <item>Director : Sam Mendes</item>
+        <item>Stars : George MacKay, Dean-Charles Chapman, Mark Strong(II)</item>
+        <item>IMDb rating : 8.5/10</item>
+        <item>Rotten Tomatoes rating : 89%</item>
+        <item>Reviews1 : </item>
+        <item>Don\'t listen to the critics saying this movie is boring. This movie is one of the most tense and exciting movies I\'ve seen in years. Amazing cinematography and overall amazing experience of a movie.</item>
+        <item>Review2 :</item>
+        <item>Sure, it had a few good cinematic shots. But the story felt hollow - cardboard cutout characters - generic message delivery through enemy lands. Almost feel like they did it by the numbers.</item>
+    </string-array>
+
+    <string-array name="aveg">
+        <item>Released : 2019</item>
+        <item>Duration : 181 min</item>
+        <item>Directors : Anthony Russo, Joe Russo</item>
+        <item>Stars : Robert Downey Jr., Mark Ruffalo, Scarlett Johansson</item>
+        <item>IMDb rating : 8.5/10</item>
+        <item>Rotten Tomatoes rating : 94%</item>
+        <item>Reviews1 :</item>
+        <item>Boring rehashed rubbish. Too long! Too many characters again!! Seen it all before and now I am bored of Marvel and DISNEY!!!!</item>
+        <item>Review2 :</item>
+        <item>I managed to watch 40 minutes of this crap, and then could not stand it any longer. You must be a true fan of Marvel Universe to see it until the end. If you are not, avoid - nothing makes sense in this utterly boring movie. Acting is really bad too. High-end special effects cannot save it.</item>
+    </string-array>
+
+    <string-array name="joker">
+        <item>Released : 2019</item>
+        <item>Duration : 122 min</item>
+        <item>Director : Todd Phillips</item>
+        <item>Stars : Joaquin Phoenix, Robert De Niro, Zazie Beetz</item>
+        <item>IMDb rating : 8.6/10</item>
+        <item>Rotten Tomatoes rating : 68%</item>
+        <item>Reviews1 :</item>
+        <item>I get why some people hate this . It\'s because of the political message and how some people think that you need get empathy for Arthur\'s madness. But come on that is not the point and it will never be. Enjoy this masterpiece because Joaquin Phoenix and Todd Phillips overdid themselves with this movie . The acting,music and cinematography are just amazing ! Please enjoy the movie without overthinking it.</item>
+        <item>Review2 :</item>
+        <item>I managed to watch 40 minutes of this crap, and then could not stand it any longer. You must be a true fan of Marvel Universe to see it until the end. If you are not, avoid - nothing makes sense in this utterly boring movie. Acting is really bad too. High-end special effects cannot save it.</item>
+    </string-array>
+
+    <string-array name="tig">
+        <item>Released : 2016</item>
+        <item>Duration : 106 min</item>
+        <item>Director : Oriol Paulo</item>
+        <item>Stars : Mario Casas, Bárbara Lennie, Ana Wagener</item>
+        <item>IMDb rating : 8.1/10</item>
+        <item>Rotten Tomatoes rating : 67%</item>
+        <item>Reviews1 :</item>
+        <item>I wont explain anything, it would be a waste of time. My only review is this: WATCH THIS MOVIE RIGHT NOW!!!!!!</item>
+        <item>Review2 :</item>
+        <item>One of the best thrillers I have seen in a long time. Brilliant acting, script, directing. Bravo Spain!</item>
+    </string-array>
+
+    <string-array name="yourname">
+        <item>Released : 2016</item>
+        <item>Duration : 106 min</item>
+        <item>Director : Makoto Shinkai</item>
+        <item>Stars : Ryûnosuke Kamiki, Michael Sinterniklaas, Mone Kamishiraishi</item>
+        <item>IMDb rating : 8.4/10</item>
+        <item>Rotten Tomatoes rating : 98%</item>
+        <item>Reviews1 :</item>
+        <item>1- This is a fun animation and has many pretty elements. I think more people should watch it.</item>
+        <item>2- Hollywood hacks are remaking it US style to make money. No one should watch that copy.</item>
+        <item>Review2 :</item>
+        <item>Film is pretty. Girl is pretty. Her village is pretty, the co-worker waitress\' legs are pretty. Disney sucks in comparison.</item>
+    </string-array>
+
+    <string-array name="room">
+        <item>Released : 2015</item>
+        <item>Duration : 118 min</item>
+        <item>Director : Lenny Abrahamson</item>
+        <item>Stars : Brie Larson, Jacob Tremblay, Joan Allen</item>
+        <item>IMDb rating : 8.1/10</item>
+        <item>Rotten Tomatoes rating : 93%</item>
+        <item>Reviews1 :</item>
+        <item>Very slow, disappointing and over rated! Judging by the reviews I though it would be a good film. Stop lying people</item>
+        <item>Review2 :</item>
+        <item>Do not waste your time watching this!!! Do not waste your time watching this!!!</item>
+    </string-array>
+
+    <string-array name="spotlight">
+        <item>Released : 2015</item>
+        <item>Duration : 129 min</item>
+        <item>Director : Tom McCarthy</item>
+        <item>Stars : Mark Ruffalo, Michael Keaton, Rachel McAdams</item>
+        <item>IMDb rating : 8.1/10</item>
+        <item>Rotten Tomatoes rating : 97%</item>
+        <item>Reviews1 :</item>
+        <item>Spotlight is one of the best movie I have ever watched. All the characters played by the actors are awesome. It feels like you are not watching a movie, but it\'s happening around you. </item>
+        <item>Review2 :</item>
+        <item>Everyone needs to see Spotlight. The writing, direction and acting are all flawless. The story is totally engrossing.</item>
+    </string-array>
+
+</resources>

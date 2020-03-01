@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/info"
+        android:title="@string/Info"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/trailer"
+        android:title="@string/Trailer"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/wikipedia"
+        android:title="@string/Wikipedia"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/imdb"
+        android:title="@string/IMDb"
+        android:visible="true" />
+
+</menu>
